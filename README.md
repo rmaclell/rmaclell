@@ -1,8 +1,8 @@
 # Hey there! 👋
 
-I'm Rory, a Master's student at Edinburgh Napier University.
+I'm Rory, a Master's student at Edinburgh Napier University and IBMer!
 
-🔭 I’m currently working on a project that makes English text more inclusive!
+🔭 I’m currently working on a project examining excessive data exposure in web-based APIs.
 
 🌱 I’m currently learning about malware analysis, cryptography and pentesting.
 
