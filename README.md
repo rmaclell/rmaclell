@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm Rory, a Master's student at Edinburgh Napier University and IBMer!
+I'm Rory, an IBMer working in consulting!
 
-🔭 I’m currently working on a project examining excessive data exposure in web-based APIs.
+🔭 I've just finished a project examining excessive data exposure in web-based APIs.
 
-🌱 I’m currently learning about malware analysis, cryptography and pentesting.
+🌱 I’m currently learning about containerisation and AWS cloud.
 
 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/rory-maclellan/
 
